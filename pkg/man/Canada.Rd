@@ -44,6 +44,9 @@
 
 \source{\acronym{OECD}: \url{https://www.oecd.org}; data set is available
   for download at \url{http://www.jmulti.org/data_atse.html}, the
-  official homepage of \acronym{JMULTI} is \url{www.jmulti.com}.}
+  official homepage of \acronym{JMULTI} is
+  \url{http://www.jmulti.com}. The book resource for JMULTI is:
+  Luetkepohl, H. and Kraetzig, M., \emph{Applied Time Series
+  Econometrics}, Cambridge University Press, Cambridge, 2004.}
 
 \keyword{datasets}
