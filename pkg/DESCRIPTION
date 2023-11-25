@@ -1,8 +1,8 @@
 Package: vars
 Type: Package
 Title: VAR Modelling
-Version: 1.5-9
-Date: 2023-03-22
+Version: 1.6-0
+Date: 2023-11-25
 Authors@R: c(person("Bernhard", "Pfaff", email = "bernhard@pfaffikus.de", role = c("aut", "cre")), person("Matthieu", "Stigler", role = "ctb"))
 Depends: R (>= 2.0.0), MASS, strucchange, urca (>= 1.1-6), lmtest (>=
         0.9-26), sandwich (>= 2.2-4)
